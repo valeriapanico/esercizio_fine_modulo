@@ -1,0 +1,26 @@
+Visitatori di una filiale
+
+{"banca":"intesa_san_paolo",
+"filiale":"salerno",
+"numero_sportelli":"6",
+"numero_dipendenti":"15",
+"presenza_atm":true,
+
+["visitatori":{"nome":"rebecca","cognome":"de_carli","eta":25,"comune_di_residenza":"eboli","indirizzo":{"via":"del_centenario","civico":"99","cap":"00125","citta":"eboli"},
+"nubile":true,"titolo_di_studio":"diploma",
+"correntista_della_filiale":null,
+"operazioni":["versamento","prelievo","bonifico"],
+"tempi_operazioni"{"minuti_operazione_versamento":"2","minuti_operazione_prelievo":"3","minuti_operazione_bonifico":"5"},
+
+{"nome":"francesco","cognome":"rossetti","eta":"45","comune_di_residenza":"battipaglia","indirizzo":{"via":"corso_italia","civico":21","cap":"22152","citta":"battipaglia"},
+"celibe":false,"titolo_di_studio":"laurea","correntista":true,"operazioni":"bonifico","tempi_operazioni":"tre_minuti"},
+
+{"nome":"valeria","cognome":"paoletti","eta","60","comune_di_residenza":"capaccio","indirizzo":{"via":"del_grano","civico":"snc","cap":"00199","citta":"capaccio"},"nubile":false,
+"titolo_di_studio":"dottorato","correntista":null,"operazioni":["versamento","consulenza"],"tempi_operazioni"{minuti_operazione_versamento":"3", "minuti_operazione_consulenza":"35"},
+
+"nome":"daniele","cognome":"landi","eta":"19","comune_di_residenza":"salerno","indirizzo":{"via":"del_corso","civico":"25","cap":"22058","citta":"salerno"},"celibe":null,
+"correntista_della_filiale":false,"operazioni":"bonifico","tempi_operazioni":"5_minuti"]}
+
+
+
+"commento":"visitatori della bfiliale intesa san paolo di salerno lunedi 27 dicembre"
